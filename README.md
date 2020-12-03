@@ -11,8 +11,7 @@ the subject or body.
       # macOS
       $ brew install openssl@1.1
       
-      # Arch Linux
-      $ sudo pacman -S pkg-config openssl
+      
       
       # Debian and Ubuntu
       $ sudo apt-get install pkg-config libssl-dev
